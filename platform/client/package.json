@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "@capacitor/core": "2.4.5",
+    "@capacitor/core": "2.4.6",
     "@ionic/react": "5.3.2",
     "@ionic/react-router": "5.3.2",
     "google-maps-react": "2.0.6",
@@ -50,7 +50,7 @@
     ]
   },
   "devDependencies": {
-    "@capacitor/cli": "2.4.5",
+    "@capacitor/cli": "2.4.6",
     "@graphql-codegen/add": "2.0.1",
     "@graphql-codegen/typescript": "1.17.9",
     "@graphql-codegen/typescript-operations": "1.17.8",
