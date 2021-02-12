@@ -6,7 +6,7 @@
     "@capacitor/core": "2.4.5",
     "@ionic/react": "5.3.2",
     "@ionic/react-router": "5.3.2",
-    "@apollo/client": "3.2.0",
+    "@apollo/client": "3.3.9",
     "apollo-link-context": "1.0.20",
     "apollo-link-ws": "1.0.20",
     "google-maps-react": "2.0.6",

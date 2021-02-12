@@ -13,7 +13,7 @@
     "keycloak-js": "9.0.3",
     "offix-cache": "0.15.5",
     "offix-client": "0.15.5",
-    "@apollo/client": "3.2.0",
+    "@apollo/client": "3.3.9",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-offix-hooks": "0.15.5",
