@@ -4,26 +4,26 @@
   "private": true,
   "dependencies": {
     "@capacitor/core": "2.4.5",
-    "@ionic/react": "5.3.2",
-    "@ionic/react-router": "5.3.2",
+    "@ionic/react": "5.5.4",
+    "@ionic/react-router": "5.5.4",
     "@apollo/client": "3.2.0",
     "apollo-link-context": "1.0.20",
     "apollo-link-ws": "1.0.20",
     "google-maps-react": "2.0.6",
-    "graphql": "15.3.0",
+    "graphql": "15.5.0",
     "graphql-tag": "2.11.0",
     "humanize-string":"2.1.0",
-    "ionicons": "5.1.2",
+    "ionicons": "5.5.0",
     "keycloak-js": "9.0.3",
-    "moment": "2.27.0",
+    "moment": "2.29.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-router": "5.2.0",
     "react-router-dom": "5.2.0",
-    "simpl-schema": "1.10.0",
+    "simpl-schema": "1.10.2",
     "subscriptions-transport-ws": "0.9.18",
-    "uniforms": "3.0.0-rc.3",
-    "uniforms-bridge-simple-schema-2": "3.0.0-rc.3",
+    "uniforms": "3.1.0",
+    "uniforms-bridge-simple-schema-2": "3.1.0",
     "uniforms-ionic": "0.1.0"
   },
   "scripts": {
@@ -51,7 +51,7 @@
     ]
   },
   "resolutions": {
-    "uniforms": "3.0.0-rc.3"
+    "uniforms": "3.1.0"
   },
   "devDependencies": {
     "@capacitor/cli": "2.4.5",
@@ -60,21 +60,21 @@
     "@graphql-codegen/typescript-operations": "1.17.8",
     "@graphql-codegen/typescript-react-apollo": "2.0.6",
     "@test-graphql-cli/codegen": "4.0.1-beta.6",
-    "@testing-library/jest-dom": "5.11.4",
+    "@testing-library/jest-dom": "5.11.9",
     "@testing-library/react": "10.4.9",
     "@testing-library/user-event": "10.4.1",
-    "@types/googlemaps": "3.39.13",
+    "@types/googlemaps": "3.43.3",
     "@types/jest": "25.2.3",
     "@types/moment": "2.13.0",
-    "@types/node": "12.12.55",
-    "@types/react": "16.9.49",
-    "@types/react-dom": "16.9.8",
-    "@types/react-router": "5.1.8",
-    "@types/react-router-dom": "5.1.5",
-    "@types/simpl-schema": "0.2.8",
-    "graphql-cli": "4.0.1-beta.6",
-    "react-scripts": "3.4.3",
-    "typescript": "3.9.7"
+    "@types/node": "12.20.0",
+    "@types/react": "16.14.4",
+    "@types/react-dom": "16.9.11",
+    "@types/react-router": "5.1.11",
+    "@types/react-router-dom": "5.1.7",
+    "@types/simpl-schema": "0.2.10",
+    "graphql-cli": "4.1.0",
+    "react-scripts": "3.4.4",
+    "typescript": "3.9.9"
   },
   "description": "An Ionic project"
 }
